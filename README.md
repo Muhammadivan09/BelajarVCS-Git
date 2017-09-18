@@ -63,3 +63,5 @@ Repository adalah sebuah tempat untuk menampung berkas.
 
 ## .gitignore
 .gitignore adalah sebuah berkas untuk menandai berkas yang tidak akan dipush ke repository.
+
+### Semuanya dipelajari dari [Udacity](https://udacity.com) :heart:
